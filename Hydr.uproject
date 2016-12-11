@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1B58A38C-429F-4885-6F27-7D9F08A9346D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Hydr",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"Slate",
+				"SlateCore"
+			]
+		},
+		{
+			"Name": "HydrLoadingScreen",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
