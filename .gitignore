@@ -93,3 +93,7 @@ Intermediate/ProjectFiles/BuildPatchTool.vcxproj.user
 Intermediate/ProjectFiles/CoreFighter.vcxproj.filters
 Intermediate/Build/Unused/UE4.log
 *.db
+*.ide
+.vs/Hydr/v15/Solution.VC.db-shm
+*.ipch
+*.db-wal
